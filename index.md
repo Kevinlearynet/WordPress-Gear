@@ -95,7 +95,7 @@ Base Tools
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
 
 
-`Misc` 
+`Misc`
 
 -   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
@@ -121,8 +121,8 @@ Plugins that help with debugging
 -   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
 -   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows scripts/styles loaded for the current page & dependencies.
--   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post 
--   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings 
+-   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post
+-   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings
 -   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
 -   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - Shows screen info of the current admin page
 -   [Debug Bar Shortcodes](http://wordpress.org/plugins/debug-bar-shortcodes/) - Shows the registered shortcodes, any available information about them and where they are used
@@ -177,12 +177,13 @@ PHP Boilerplate
 
 ##### Framework stuff
 
--   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder.
+-   [Titan Framework](http://www.titanframework.net/) - Easy, powerful theme options page builder that provides a slick API for settings, customizer, and meta boxes
+-   [Fields Framework](http://wordpress.org/plugins/fields-framework/) - A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder.
 -   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
 -   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
 -   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
--   [scbFramework](http://wordpress.org/plugins/scb-framework) - A set of useful classes for faster plugin development 
--   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
+-   [scbFramework](http://wordpress.org/plugins/scb-framework) - A set of useful classes for faster plugin development
+-   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 -   [Redux Framework](https://github.com/ReduxFramework/ReduxFramework) - Theme options framework
@@ -217,18 +218,18 @@ PHP Boilerplate
 -   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
-  
+
 
 * * * * *
 
-Meta Fields 
+Meta Fields
 ---------------
 
 ##### Meta data stuff (custom fields, meta fields, meta boxes, etc)
 
 -   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - Class for creating custom meta boxes
 -   [Meta Box Plugin](https://github.com/rilwis/meta-box) - Easily create custom meta boxes
--   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios 
+-   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios
 -   [Humanmade Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - Meta boxes framework forked from WebDevStudios'
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy) - Thin meta framework
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
@@ -240,7 +241,7 @@ Meta Fields
 -   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
 -   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
 
- 
+
 * * * * *
 
 Theme Stuff
